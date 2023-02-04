@@ -2,10 +2,7 @@ body {
     background-color: #e7eaf6;
 }
 
-h1 {
-    text-align: center;
-    font-family:cursive;
-}
+
 
 .container {
     border: 1px solid black;
@@ -24,7 +21,7 @@ button {
     border-radius: 0.5rem;
     cursor: pointer;
     background-color: aliceblue;
-    font-family: cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
 
